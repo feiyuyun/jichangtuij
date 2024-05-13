@@ -1,4 +1,5 @@
-<h2>使用说明</h2>
+<a href="https://www.google.com">点击这里访问Google</a>
+
 <li>拷贝后将 yuran_zixun 文件夹上传到 /zb_users/plugin/ 下</li>
 <li>在网站插件管理内开启 百度智能小程序 插件</li>
 <li>在插件内填写 App Key App Secret 和 相关小程序内容</li>
