@@ -1,6 +1,6 @@
 
 
-<li><a href="https://www.2024la.com">大哥云</a> /zb_users/plugin/ 下</li>
+<li><a href="https://2024la.com">大哥云</a> /zb_users/plugin/ 下</li>
 <li>在网站插件管理内开启 百度智能小程序 插件</li>
 <li>在插件内填写 App Key App Secret 和 相关小程序内容</li>
 <li>开启云缓存加速 开启首页轮播图 关闭新文章摘要生成</li>
